@@ -53,6 +53,6 @@ Me chamo Arthur, sou formado em Gestão da Tecnologia da Informação pela FATEC
     />
 </p>
 
-### 📊 Estatísticas
+
 
 
