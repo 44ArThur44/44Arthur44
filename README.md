@@ -1,7 +1,7 @@
 # -_ArThur_-
 **`Analista de Dados`**
 
-Me chamo Arthur, sou formado em Gestão da Tecnologia da Informação pela FATEC Assis e atualmente curso Ciência de Dados na FATEC Ourinhos. Atuo com análise exploratória, modelagem preditiva e interpretação de dados, utilizando ferramentas como Python (pandas, numpy, scikit-learn, matplotlib), Power BI para criação de dashboards interativos e relatórios dinâmicos, Excel avançado para manipulação de dados e automações, Microsoft Azure para soluções em nuvem e integração de dados, além do Google Analytics para análise de métricas digitais e comportamento de usuários. Busco transformar grandes volumes de dados em insights estratégicos, apoiando a tomada de decisão baseada em dados. Basicamente, Transformo dados em resultados.
+Me chamo Arthur, sou formado em Gestão da Tecnologia da Informação pela FATEC e atualmente curso Ciência de Dados na FATEC. Atuo com análise exploratória, modelagem preditiva e interpretação de dados, utilizando ferramentas como Python (pandas, numpy, scikit-learn, matplotlib), Power BI para criação de dashboards interativos e relatórios dinâmicos, Excel avançado para manipulação de dados e automações, Microsoft Azure para soluções em nuvem e integração de dados, além do Google Analytics para análise de métricas digitais e comportamento de usuários. Busco transformar grandes volumes de dados em insights estratégicos, apoiando a tomada de decisão baseada em dados. Basicamente, Transformo dados em resultados.
 
 <h3 align="center"><strong>.:. Linguagens e Tecnologias .:.</strong></h3>
 
