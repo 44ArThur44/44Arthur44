@@ -2,7 +2,7 @@
 **`AI / Data Engineer Jr & Analytics Pleno / IT Management`**
 <br>
 
-💻 Junior Data Engineer | Mid-Level Data Analyst
+Data Engineer | Data Analyst
 Focused on AI, Analytics, and end-to-end pipeline automation.
 >
 <strong>What I do:</strong> 
