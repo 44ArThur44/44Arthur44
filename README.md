@@ -2,8 +2,6 @@
 **`AI / Data Engineer Jr & Analytics / IT Management`**
 <br>
 
-Data Engineer | Data Analyst
-
 
 Focused on AI, Analytics, and end-to-end pipeline automation.
 >
