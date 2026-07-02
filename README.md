@@ -1,5 +1,5 @@
 # Arthur
-**`AI / Data Engineer Jr & Analytics Pleno / IT Management`**
+**`AI / Data Engineer Jr & Analytics / IT Management`**
 <br>
 
 Data Engineer | Data Analyst
