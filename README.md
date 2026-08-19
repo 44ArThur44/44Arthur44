@@ -19,7 +19,7 @@ Construindo → automatizando → otimizando.
 
 # 🇺🇸 
 
-Focused on Data Analytics, Data Engineering, and pipeline automation, applying Python, SQL, ETL, and Docker to data-driven projects.
+Focused on Data Analytics.
 
 <strong>I do:</strong>
 
