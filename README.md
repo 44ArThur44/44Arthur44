@@ -5,7 +5,7 @@
 
 Foco em Análise de Dados.
 
-<strong>O que faço:</strong>
+<strong>Eu faço:</strong>
 
 Data Analytics: Análise de dados, KPIs, dashboards e suporte à tomada de decisão
 Data Engineering: ETL, pipelines de dados, modelagem de dados e integrações com APIs
