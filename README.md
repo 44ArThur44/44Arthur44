@@ -7,10 +7,11 @@ Foco em Análise de Dados.
 
 <strong>Eu faço:</strong>
 
-Data Analytics: Análise de dados, KPIs, dashboards e suporte à tomada de decisão
+Data Analytics: Análise de dados, KPIs, dashboards e suporte à tomada de decisão.
+
 Data Engineering: ETL, pipelines de dados, modelagem de dados e integrações com APIs
 AI/ML: Análise de dados, treinamento e avaliação de modelos e soluções orientadas por IA
-Development: Python, Flask, bancos de dados relacionais, HTML/CSS/JS
+Development: Python, Flask, bancos de dados relacionais, HTML/CSS/JS.
 
 Construindo → automatizando → otimizando.
 
@@ -22,10 +23,11 @@ Focused on Data Analytics, Data Engineering, and pipeline automation, applying P
 
 <strong>I do:</strong>
 
-Data Analytics: Data analysis, KPIs, dashboards, and decision support
+Data Analytics: Data analysis, KPIs, dashboards, and decision support.
+
 Data Engineering: ETL, data pipelines, data modeling, and API integrations
 AI/ML: Data analysis, model training and evaluation, and AI-driven solutions
-Development: Python, Flask, relational databases, HTML/CSS/JS
+Development: Python, Flask, relational databases, HTML/CSS/JS.
 
 Always building → automating → optimizing.
 
