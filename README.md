@@ -1,19 +1,31 @@
-# Arthur
-**`AI / Data Engineer Jr & Analytics / IT Management`**
-<br>
+# Arthur 🇧🇷 
 
+**`IT Management / Analytics `**
+<br><br>
 
-Focused on AI, Analytics, and end-to-end pipeline automation.
->
-<strong>What I do:</strong> 
+Foco em Análise de Dados.
 
-Data Engineering: Scalable pipelines, data modeling, API integrations
+<strong>O que faço:</strong>
 
-AI/ML: Model training & evaluation, AI behavior analysis, AI-driven solutions
+Data Analytics: Análise de dados, KPIs, dashboards e suporte à tomada de decisão
+Data Engineering: ETL, pipelines de dados, modelagem de dados e integrações com APIs
+AI/ML: Análise de dados, treinamento e avaliação de modelos e soluções orientadas por IA
+Development: Python, Flask, bancos de dados relacionais, HTML/CSS/JS
 
-Applied Analytics: Dashboards, strategic analyses, data-driven decision support
+Construindo → automatizando → otimizando.
 
-Full-Stack Dev: Production-ready MVPs with Python, Flask, HTML/CSS/JS & relational DBs
+<br><br>
+
+# 🇺🇸 
+
+Focused on Data Analytics, Data Engineering, and pipeline automation, applying Python, SQL, ETL, and Docker to data-driven projects.
+
+<strong>What I do:</strong>
+
+Data Analytics: Data analysis, KPIs, dashboards, and decision support
+Data Engineering: ETL, data pipelines, data modeling, and API integrations
+AI/ML: Data analysis, model training and evaluation, and AI-driven solutions
+Development: Python, Flask, relational databases, HTML/CSS/JS
 
 Always building → automating → optimizing.
 
