@@ -20,7 +20,7 @@ Construindo → automatizando → otimizando.
 
 Focused on Data Analytics, Data Engineering, and pipeline automation, applying Python, SQL, ETL, and Docker to data-driven projects.
 
-<strong>What I do:</strong>
+<strong>I do:</strong>
 
 Data Analytics: Data analysis, KPIs, dashboards, and decision support
 Data Engineering: ETL, data pipelines, data modeling, and API integrations
