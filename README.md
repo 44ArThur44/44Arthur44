@@ -29,7 +29,7 @@ Development: Python, Flask, relational databases, HTML/CSS/JS
 
 Always building → automating → optimizing.
 
-
+<br><br>
 <div style="margin-top:20px;">
 <h3 align="center"><strong>.:. Languages & Technologies.:.</strong></h3>
 </div>
